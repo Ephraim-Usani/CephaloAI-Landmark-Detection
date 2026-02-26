@@ -4,7 +4,7 @@
 
 [![Demo](https://img.shields.io/badge/▶%20Watch%20Demo-Google%20Drive-red)](https://drive.google.com/file/d/1ij-rhXEF075A_RL2C0-MNtjR1NQNlsKP/view?usp=drive_link)
 [![CPU Only](https://img.shields.io/badge/Deployment-CPU%20Only-orange)]()
-[![Landmarks](https://img.shields.io/badge/Landmarks-23%20Points-purple)]()
+[![Landmarks](https://img.shields.io/badge/Landmarks-27%20Points-purple)]()
 [![Python](https://img.shields.io/badge/Python-3.8+-yellow)]()
 
 ---
@@ -13,7 +13,7 @@
 
 Cephalometric analysis is a foundational tool in orthodontics and maxillofacial surgery. Before planning braces, jaw corrections, or surgical interventions, clinicians must analyze a lateral skull X-ray (cephalogram) by identifying and marking specific anatomical points — called **landmarks**.
 
-A standard cephalometric analysis requires identifying **23 precise anatomical points**, then measuring the angles and distances between them to understand:
+A standard cephalometric analysis requires identifying **27 precise anatomical points**, then measuring the angles and distances between them to understand:
 - Jaw position and relationship
 - Dental inclination
 - Facial growth patterns
@@ -47,7 +47,7 @@ What previously took 30+ minutes of expert manual work now happens in seconds.
 ## Landmarks Detected
 
 The system identifies all standard cephalometric landmarks including:
-Sella (S), Nasion (N), Orbitale (Or), Porion (Po), Anterior Nasal Spine (ANS), Posterior Nasal Spine (PNS), Point A, Point B, Pogonion (Pog), Gnathion (Gn), Menton (Me), Gonion (Go), Articulare (Ar), and more — all 23 standard points.
+Sella (S), Nasion (N), Orbitale (Or), Porion (Po), Anterior Nasal Spine (ANS), Posterior Nasal Spine (PNS), Point A, Point B, Pogonion (Pog), Gnathion (Gn), Menton (Me), Gonion (Go), Articulare (Ar), and more — all 27 standard points.
 
 ---
 
