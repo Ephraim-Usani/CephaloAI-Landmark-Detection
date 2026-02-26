@@ -34,7 +34,7 @@ This manual tracing process:
 
 CephaloAI takes a cephalometric X-ray as input and:
 
-1. **Detects all 23 anatomical landmarks** automatically
+1. **Detects all 27 anatomical landmarks** automatically
 2. **Marks each point** with precise coordinates on the image
 3. **Calculates standard cephalometric measurements** from the detected landmarks
 4. **Generates a tracing overlay** for clinical review
