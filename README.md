@@ -1,6 +1,6 @@
 # CephaloAI — Automated Cephalometric Landmark Detection
 
-> **AI system that automatically identifies and marks 23 anatomical landmarks on dental skull X-rays for orthodontic planning**
+> **AI system that automatically identifies and marks 27 anatomical landmarks on dental skull X-rays for orthodontic planning**
 
 [![Demo](https://img.shields.io/badge/▶%20Watch%20Demo-Google%20Drive-red)](https://drive.google.com/file/d/1ij-rhXEF075A_RL2C0-MNtjR1NQNlsKP/view?usp=drive_link)
 [![CPU Only](https://img.shields.io/badge/Deployment-CPU%20Only-orange)]()
